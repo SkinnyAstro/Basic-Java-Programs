@@ -14,7 +14,7 @@ public class Hashing {
 
         map.put("India",300);
         //System.out.println(map);
-        if (map.containsKey("Indonesia")){
+        if (map.containsKey("Indonesia")){ // this will return true or false.
             System.out.println("Key is present");
         }else {
             System.out.println("Key is not present");
